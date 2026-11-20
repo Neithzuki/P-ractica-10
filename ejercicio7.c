@@ -1,5 +1,5 @@
 /*Cristian Ariel López Santiago 
-ejercicio 6
+ejercicio 7
 A continuación, se muestra un programa que genera un arreglo multidimensional de
 máximo 10 renglones y 10 columnas, para poder almacenar datos en cada elemento y
 posteriormente mostrar el contenido de esos elementos se hace uso de ciclos for anidados
